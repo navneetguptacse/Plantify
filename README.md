@@ -51,10 +51,6 @@ For any questions, concerns, or technical issues, please feel free to reach out 
 
 ### Frequently Asked Questions (FAQ)
 
-**Q: How do I create an account on Plantify?**
-
-**A:** To create an account, simply click on the "Sign Up" button on the homepage and follow the registration process.
-
 **Q: Can I use Plantify on my mobile device?**
 
 **A:** Yes, Plantify is optimized for mobile devices and can be accessed through your device's web browser.
