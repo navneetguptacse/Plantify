@@ -1,8 +1,9 @@
 # Plantify
 ## Plantify: Intelligent plant care, guidance & community.
-### This file may be used to create an environment using:
-### $ conda create --name plantify --file requirements.txt
-### platform: win-64
+- This file may be used to create an environment using:
+- `$ conda create --p venv python==3.6.12`
+- `$ pip install -r requirements.txt`
+- platform: `win-64`
 
 ## Help and Support
 
