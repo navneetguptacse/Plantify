@@ -1,0 +1,77 @@
+{% extends 'layout.html' %} {% block body %}
+
+
+<style>
+  html body {
+    background-image: linear-gradient(rgba(94, 154, 21, 0.586), rgb(234, 234, 234));
+  }
+  .image-preview {
+    width: 300px;
+    height: 300px;
+    border: 1px solid #343a40;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+
+  .image-preview img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+</style>
+<br /><br />
+  <h2 style="text-align: center; margin: 0px; color: #343a40">
+    Identify your plant's disease quickly.
+  </h2>
+  <br />
+  <br>
+
+<div style="
+    width: 350px;
+    height: 40rem;
+    margin: 0px auto;
+    color: #343a40;
+    border-radius: 25px;
+    padding: 10px 10px;
+    font-weight: bold;
+    align-items: center;
+  ">
+
+  <form class="form-signin" method=post enctype=multipart/form-data>
+
+    <h2 class="image-upload h4 mb-3">Please Upload The Image</h2>
+    <input type="file" name="file" class="form-control-file" id="inputfile" onchange="preview_image(event)">
+    <br>
+    <img id="output-image" class="image-preview" />
+    <button class="btn btn-lg btn-secondary btn-block" type="submit" style="
+      color: #dcdcdc;
+      width: 300px;
+      height: 40px;
+      border-radius: 5px;
+      font-size: 16px;
+      background-color: #343a40;
+      position: absolute;
+      margin: 1rem 0rem;
+    "
+    >
+      Predict
+    </button>
+
+  </form>
+</div>
+
+<script type="text/javascript">
+  function preview_image(event) {
+    var reader = new FileReader();
+    reader.onload = function () {
+      var output = document.getElementById('output-image')
+      output.src = reader.result;
+    }
+    reader.readAsDataURL(event.target.files[0]);
+  }
+</script>
+
+</div>
+{% endblock %}

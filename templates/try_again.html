@@ -1,0 +1,29 @@
+{% extends 'layout.html' %} {% block body %}
+
+<style>
+  html body {
+    background-image: linear-gradient(rgba(94, 154, 21, 0.586), rgb(234, 234, 234));
+  }
+</style>
+
+<div class="container py-2 mx-auto my-50 h-10 text-center" style="margin: 12rem;">
+  <div class="row">
+    <div class="col-sm py-2 py-md-3">
+      <div class="card card-body" style="justify-content: center; background-color:transparent">
+        <h1 class="text-center" style="color: #343a40; font-size: 18px;">Sorry we couldn't process your request
+            currently. <br> Please try again
+        </h1>
+        <a href="{{ url_for('home') }}">
+          <button type="submit" class="btn btn-info text-center" style="
+            color: #ebebeb;
+            margin: 1rem;
+            border: none;
+            background-color: #343a40;">
+            Try again!
+          </button>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
