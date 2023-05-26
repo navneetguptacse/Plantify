@@ -1,4 +1,4 @@
-# Plantify
+# 🌾 Plantify
 ## Plantify: Intelligent plant care, guidance & community.
 - This file may be used to create an environment using:
 - `$ conda create --p venv python==3.6.12`
