@@ -51,22 +51,22 @@ For any questions, concerns, or technical issues, please feel free to reach out 
 
 ### Frequently Asked Questions (FAQ)
 
-Q: How do I create an account on Plantify?
+**Q: How do I create an account on Plantify?**
 
-A: To create an account, simply click on the "Sign Up" button on the homepage and follow the registration process.
+**A:** To create an account, simply click on the "Sign Up" button on the homepage and follow the registration process.
 
-Q: Can I use Plantify on my mobile device?
+**Q: Can I use Plantify on my mobile device?**
 
-A: Yes, Plantify is optimized for mobile devices and can be accessed through your device's web browser.
+**A:** Yes, Plantify is optimized for mobile devices and can be accessed through your device's web browser.
 
-Q: How accurate is the plant identification feature?
+**Q: How accurate is the plant identification feature?**
 
-A: Plantify strives for high accuracy in plant identification, but it's important to provide clear images and accurate plant attributes for optimal results.
+**A:** Plantify strives for high accuracy in plant identification, but it's important to provide clear images and accurate plant attributes for optimal results.
 
-Q: How often should I water my plants?
+**Q: How often should I water my plants?**
 
-A: The watering frequency depends on the specific plant species. Plantify provides personalized watering recommendations based on your plant's needs.
+**A:** The watering frequency depends on the specific plant species. Plantify provides personalized watering recommendations based on your plant's needs.
 
-Q: Is my data safe and secure?
+**Q: Is my data safe and secure?**
 
-A: Plantify takes data privacy and security seriously. We have implemented robust measures to protect your information.
+**A:** Plantify takes data privacy and security seriously. We have implemented robust measures to protect your information.
