@@ -48,7 +48,7 @@ If you encounter any other issues or need further assistance, please don't hesit
 
 ### Contact and Support
 
-For any questions, concerns, or technical issues, please feel free to reach out to our support team via email at [support@centrabyte.com](mailto:support@plantify.com). We are dedicated to providing prompt and reliable assistance to our users.
+For any questions, concerns, or technical issues, please feel free to reach out to our support team via email at [support@plantify.com](mailto:support@plantify.com). We are dedicated to providing prompt and reliable assistance to our users.
 
 ### Frequently Asked Questions (FAQ)
 
